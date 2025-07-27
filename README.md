@@ -41,4 +41,4 @@ The simulation was performed using **Quantum Espresso v.7.3.1** within a WSL (Ub
 The final ground-state total energy for the relaxed structure was calculated to be:
 **-158.81405675 Ry**
 
-![Energy Convergence Plot](analysis/TiAl_convergence_plot.png)
+![Energy Convergence Plot](TiAl_convergence_plot.png)
